@@ -1,0 +1,12 @@
+{
+	"Name": "Mod ภาษาไทย",
+	"ID": "Thai Mod",
+	"Author": "slost",
+	"Description": "เปลี่ยนภาษาเป็นภาษาไทย",
+	"ModVersion": 0.0.1,
+	"GameVersion": 2.031,
+	"Date": "13/08/2021",
+	"Dependencies": [],
+	"LanguagePacks": ["th_lang.js"],
+	"Disabled": 1
+}
